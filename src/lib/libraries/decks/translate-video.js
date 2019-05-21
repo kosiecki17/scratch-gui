@@ -76,7 +76,7 @@ const videos = {
         'ja-Hira': 'q7zq9vu0wb'
     },
     'make-it-fly': {
-        'en': 'zbtdx2dem9',
+        'en': 'zbtdx2dem9'
 
     }
 };
