@@ -2,6 +2,21 @@
 import introMove from './steps/intro-move.en.gif';
 import introSayHello from './steps/intro-say-hello.en.gif';
 
+// Make it Fly
+import flyChooseBackdrop from './steps/fly-choose-backdrop.en.gif';
+import flyChooseCharacter from './steps/fly-choose-character.en.gif';
+import flySaySomething from './steps/fly-say-something.en.gif';
+import flyMoveArrows from './steps/fly-make-interactive.en.gif';
+import flyChooseObject from './steps/fly-object-to-collect.en.gif';
+import flyFlyingObject from './steps/fly-flying-heart.en.gif';
+import flySelectFlyingSprite from './steps/fly-select-flyer.en.gif';
+import flyAddScore from './steps/fly-add-score.en.gif';
+import flyKeepScore from './steps/fly-keep-score.en.gif';
+import flyAddScenery from './steps/fly-choose-scenery.en.gif';
+import flyMoveScenery from './steps/fly-move-scenery.en.gif';
+import flySwitchLooks from './steps/fly-switch-costume.en.gif';
+
+
 // Text to Speech
 import speechAddExtension from './steps/speech-add-extension.en.gif';
 import speechSaySomething from './steps/speech-say-something.en.gif';
@@ -176,7 +191,21 @@ const enImages = {
     storySwitchBackdrop: storySwitchBackdrop,
     storyHideCharacter: storyHideCharacter,
     storyShowCharacter: storyShowCharacter,
-
+    
+    // Make it Fly
+    flyChooseBackdrop: flyChooseBackdrop,
+    flyChooseCharacter: flyChooseCharacter,
+    flySaySomething: flySaySomething,
+    flyMoveArrows: flyMoveArrows,
+    flyChooseObject: flyChooseObject,
+    flyFlyingObject: flyFlyingObject,
+    flySelectFlyingSprite: flySelectFlyingSprite,
+    flyAddScore: flyAddScore,
+    flyKeepScore: flyKeepScore,
+    flyAddScenery: flyAddScenery,
+    flyMoveScenery: flyMoveScenery,
+    flySwitchLooks: flySwitchLooks,
+    
     // Video Sensing
     videoAddExtension: videoAddExtension,
     videoPet: videoPet,
